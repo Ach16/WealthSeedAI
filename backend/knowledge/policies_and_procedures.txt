@@ -1,0 +1,381 @@
+# ABC Financial Institution
+
+# Comprehensive Customer Policy & Operations Handbook
+
+**Version:** 2.0
+**Effective Date:** January 1, 2026
+**Document Classification:** Internal & Customer Reference
+
+---
+
+# 1. Institution Overview
+
+## Introduction
+
+ABC Financial Institution is a full-service financial organization providing retail banking, corporate banking, lending solutions, investment services, treasury operations, and digital banking facilities. The institution is committed to delivering secure, transparent, innovative, and customer-centric financial services while maintaining the highest standards of regulatory compliance and operational excellence.
+
+ABC Financial Institution serves individual customers, small businesses, large enterprises, and institutional clients through an integrated network of physical branches, digital banking platforms, automated banking services, and customer support channels.
+
+The institution continuously invests in technology, cybersecurity, and customer experience initiatives to ensure safe and efficient delivery of banking services.
+
+---
+
+## Mission Statement
+
+Our mission is to provide reliable, secure, and accessible financial solutions that empower customers to achieve their personal and business financial goals.
+
+---
+
+## Vision Statement
+
+To become a trusted financial partner recognized for innovation, customer satisfaction, operational excellence, and sustainable growth.
+
+---
+
+## Core Values
+
+ABC Financial Institution operates according to the following principles:
+
+### Customer Focus
+
+Customers remain at the center of all products, services, and operational decisions.
+
+### Integrity
+
+The institution maintains honesty, transparency, and ethical conduct in all interactions.
+
+### Security
+
+Protection of customer information and financial assets remains a top priority.
+
+### Innovation
+
+Continuous improvement and technological advancement drive service excellence.
+
+### Compliance
+
+The institution complies with all applicable laws, regulations, and industry standards.
+
+---
+
+## Customer Support Services
+
+ABC Financial Institution provides multiple support channels to ensure convenient access to assistance.
+
+### Customer Care Hotline
+
+Phone Number: 1800-123-4567
+
+Availability:
+
+* Monday to Friday
+* 9:00 AM to 6:00 PM
+
+### Email Support
+
+Email Address:
+
+[support@abcbank.com](mailto:support@abcbank.com)
+
+Response Time:
+
+Within 24 hours for standard inquiries.
+
+### Customer Portal
+
+Customers may submit service requests, complaints, and account-related inquiries through the secure online customer portal.
+
+### Branch Support
+
+Customers may visit any authorized branch during working hours for in-person assistance.
+
+### Emergency Services
+
+The following services are available 24 hours a day:
+
+* Debit card blocking
+* Fraud reporting
+* Unauthorized transaction reporting
+* Digital banking access suspension
+
+---
+
+# 2. Customer Account Management Policy
+
+## Purpose
+
+The purpose of this policy is to establish procedures governing customer account opening, maintenance, monitoring, modification, and closure.
+
+The institution requires all customers to maintain accurate information and comply with applicable regulatory requirements throughout the account lifecycle.
+
+---
+
+## Customer Responsibilities
+
+Every account holder is responsible for:
+
+### Maintaining Accurate Information
+
+Customers must ensure that personal information remains current and accurate.
+
+This includes:
+
+* Full legal name
+* Residential address
+* Email address
+* Mobile phone number
+* Employment information
+* Tax identification information
+
+### Updating Changes Promptly
+
+Customers must notify the institution within 30 days of any material changes.
+
+Examples include:
+
+* Change of address
+* Name change
+* Change of mobile number
+* Change of employment status
+
+Failure to update information may result in service interruptions or compliance reviews.
+
+### Credential Protection
+
+Customers are solely responsible for protecting:
+
+* Account numbers
+* Debit cards
+* Internet banking credentials
+* Mobile banking credentials
+* OTPs
+* Security questions
+
+These credentials must never be shared with third parties.
+
+### Suspicious Activity Reporting
+
+Customers must immediately report:
+
+* Unauthorized transactions
+* Credential compromise
+* Lost cards
+* Fraud attempts
+* Identity theft concerns
+
+Prompt reporting significantly improves fraud recovery efforts.
+
+---
+
+## Account Status Categories
+
+### Active Account
+
+An account is considered active when customer-initiated transactions occur regularly.
+
+Examples include:
+
+* Deposits
+* Withdrawals
+* Fund transfers
+* Bill payments
+
+### Inactive Account
+
+An account becomes inactive when no customer-initiated transactions occur for 24 consecutive months.
+
+Examples of qualifying transactions include:
+
+* ATM withdrawals
+* Online transfers
+* Branch transactions
+
+System-generated interest credits do not qualify as customer activity.
+
+### Dormant Account
+
+Inactive accounts may be classified as dormant following regulatory review.
+
+Dormant accounts may experience:
+
+* Transaction restrictions
+* Enhanced verification requirements
+* Temporary service suspension
+
+---
+
+## Dormant Account Reactivation Procedure
+
+To reactivate a dormant account, customers must:
+
+### Step 1
+
+Visit an authorized branch.
+
+### Step 2
+
+Provide valid identity documentation.
+
+### Step 3
+
+Complete re-verification requirements.
+
+### Step 4
+
+Submit a reactivation request form.
+
+### Step 5
+
+Await approval and account restoration.
+
+Typical processing time:
+
+2–5 business days.
+
+---
+
+## Joint Accounts
+
+Joint account holders share responsibility for account management.
+
+Types of joint account operation include:
+
+### Either or Survivor
+
+Either account holder may operate the account independently.
+
+### Jointly
+
+All account holders must authorize transactions.
+
+### Former or Survivor
+
+The primary holder operates the account while both parties are living.
+
+Specific operational rules are determined during account opening.
+
+---
+
+## Account Closure Policy
+
+Customers may request account closure by visiting a branch.
+
+Requirements include:
+
+* Valid identity proof.
+* Account closure request form.
+* Settlement of outstanding obligations.
+* Return of unused cheque books and debit cards where applicable.
+
+Before closure:
+
+* Pending transactions must be completed.
+* Loan obligations must be cleared.
+* Negative balances must be settled.
+
+Processing Time:
+
+Up to 3 business days.
+
+---
+
+## Regulatory Compliance Requirements
+
+The institution reserves the right to:
+
+* Restrict accounts.
+* Suspend transactions.
+* Request additional documentation.
+* Freeze accounts when legally required.
+
+Such actions may occur in response to:
+
+* Regulatory directives.
+* Court orders.
+* Fraud investigations.
+* AML compliance reviews.
+* KYC deficiencies.
+
+Customer notification will be provided whenever legally permissible.
+
+---
+
+# 3. Savings Account Policy
+
+## Purpose
+
+Savings accounts are designed to help customers securely store funds while earning interest and maintaining convenient access to banking services.
+
+Savings accounts support personal financial management, emergency savings, and long-term financial planning.
+
+## Account Categories
+
+### Basic Savings Account
+
+Minimum Balance Requirement:
+
+₹0
+
+Suitable for:
+
+* Students
+* First-time banking customers
+* Basic banking needs
+
+### Standard Savings Account
+
+Minimum Balance Requirement:
+
+₹5,000
+
+Suitable for:
+
+* Salaried professionals
+* Families
+* General retail customers
+
+### Premium Savings Account
+
+Minimum Balance Requirement:
+
+₹25,000
+
+Additional benefits may include:
+
+* Higher transaction limits
+* Dedicated relationship support
+* Premium debit card eligibility
+* Priority service access
+
+---
+
+## Interest Calculation Methodology
+
+Interest on savings accounts is calculated daily based on the closing balance maintained in the account.
+
+The accumulated interest is credited to customer accounts on a quarterly basis.
+
+Example:
+
+If a customer maintains an average balance of ₹1,00,000 and the annual interest rate is 4%, interest accrues daily and is credited every quarter.
+
+This approach ensures fair compensation based on actual account balances.
+
+---
+
+## Access Channels
+
+Customers may access funds through:
+
+* Branch banking.
+* ATM services.
+* Internet banking.
+* Mobile banking.
+* UPI transactions.
+* Debit card purchases.
+
+The institution continuously monitors these channels to ensure secure and uninterrupted access.
+
+---
+
+(Continue similarly for all remaining sections: Current Accounts, KYC Policy, Debit Cards, ATM Operations, Internet Banking, Mobile Banking, UPI, Fund Transfers, Fixed Deposits, Loans, Complaints, Fraud Prevention, Data Privacy, SLAs, Escalation Matrix, FAQs, etc.)

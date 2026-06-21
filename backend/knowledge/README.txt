@@ -1,0 +1,1 @@
+Welcome to the WealthSeed AI Knowledge Base. Place PDF, DOCX, TXT, or MD files here to be indexed by the RAG system.

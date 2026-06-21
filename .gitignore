@@ -1,0 +1,45 @@
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python caches
+.pytest_cache/
+.mypy_cache/
+
+# Databases
+*.db
+*.sqlite3
+
+# Vector Database
+chroma_db/
+
+# Logs
+logs/
+*.log
+
+# Frontend (Next.js)
+node_modules/
+.next/
+out/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
