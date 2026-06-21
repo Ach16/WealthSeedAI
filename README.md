@@ -1,29 +1,19 @@
 # WealthSeed AI
 
-## Overview
+> AI-Powered Financial Education, Goal Planning, Portfolio Intelligence & Virtual Investment Mentorship Platform
 
-WealthSeed AI is an AI-powered financial education, goal planning, and virtual investment mentorship platform designed to help individuals make informed financial decisions through personalized guidance, behavioral coaching, portfolio intelligence, and financial literacy education.
+WealthSeed AI is a personalized financial learning platform that helps users build financial literacy, set financial goals, simulate investments, and receive AI-driven guidance tailored to their risk profile, financial knowledge, and portfolio.
 
-<<<<<<< HEAD
-Unlike traditional finance applications that focus primarily on transactions and portfolio tracking, WealthSeed AI acts as a personalized AI wealth mentor. The platform evaluates a user's financial literacy, risk tolerance, goals, and portfolio composition to deliver contextual financial guidance and educational insights.
-
-The system combines Retrieval-Augmented Generation (RAG), LangGraph-based multi-agent workflows, portfolio analytics, behavioral finance principles, and virtual investing to create a safe and interactive learning environment.
+The platform combines **Generative AI, Retrieval-Augmented Generation (RAG), Behavioral Finance, Portfolio Analytics, and Multi-Agent Systems** to provide an interactive and educational wealth-building experience.
 
 ---
-
-## Problem Statement
-
-Many beginner investors face challenges such as:
-
-* Limited financial literacy
-* Poor understanding of investment risks
-* Emotional investment decisions
-* Lack of personalized guidance
-* No safe environment to practice investing
-
-WealthSeed AI addresses these challenges by providing AI-powered mentorship and a virtual investing environment without requiring real money.
-
----
+## Screenshots
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/7727bb84-1526-4b68-8070-7ee51634d437" />
+<img width="1348" height="628" alt="image" src="https://github.com/user-attachments/assets/70689e32-310c-4eae-a702-3253244c27c0" />
+<img width="1341" height="630" alt="image" src="https://github.com/user-attachments/assets/0beea07b-257d-4ef1-afaf-91699e36ddda" />
+<img width="1344" height="633" alt="image" src="https://github.com/user-attachments/assets/73eb59ed-866f-4f46-ac85-af9b894b1317" />
+<img width="1346" height="630" alt="image" src="https://github.com/user-attachments/assets/40cd2261-d4dd-4b77-b0d6-b87966855606" />
+<img width="1346" height="628" alt="image" src="https://github.com/user-attachments/assets/95f4166d-1ef1-40ca-b929-cdc351759e91" />
 
 ## Key Features
 
@@ -33,7 +23,7 @@ WealthSeed AI addresses these challenges by providing AI-powered mentorship and 
 * Goal-aware responses
 * Risk-aware recommendations
 * Behavioral coaching
-* Educational explanations
+* Context-aware financial education
 
 ### Financial Literacy Assessment
 
@@ -41,47 +31,35 @@ WealthSeed AI addresses these challenges by providing AI-powered mentorship and 
 * Intermediate
 * Advanced
 
-Determines the user's financial knowledge level and personalizes educational content accordingly.
+Personalized learning based on user knowledge level.
 
 ### Risk Profiling
-
-Classifies users as:
 
 * Conservative
 * Moderate
 * Aggressive
 
-Used to tailor portfolio recommendations and AI responses.
+Used to tailor portfolio analysis and AI responses.
 
-### Goal Planning System
+### Goal Planning & Forecasting
 
-Users can create and monitor financial goals such as:
-
-* Home Purchase
-* Retirement
-* Education
-* Emergency Fund
-
-Features include:
-
-* Goal tracking
-* Progress monitoring
-* Goal forecasting
+* Create financial goals
+* Track progress
+* Forecast completion timelines
+* Goal alignment analysis
 
 ### Virtual Investment Simulator
 
-A safe environment where users can:
+Practice investing without real money.
 
 * Buy assets
 * Sell assets
 * Build portfolios
-* Learn investing principles
+* Learn investment principles
 
-without risking real money.
+### Portfolio Intelligence
 
-### Portfolio Intelligence Engine
-
-Calculates:
+Automatically evaluates:
 
 * Portfolio Health Score
 * Risk Score
@@ -90,122 +68,49 @@ Calculates:
 
 ### Wealth Academy
 
-AI-driven learning recommendations covering:
+Learn about:
 
 * Investing Fundamentals
-* Mutual Funds
-* SIPs
-* Risk Management
 * Stock Market Basics
-
----
-
-## AI Architecture
-
-### LangGraph Multi-Agent Workflow
-
-The AI mentor utilizes multiple specialized agents:
-
-#### Intent Classification Agent
-
-Determines user intent:
-
-* Educational
-* Portfolio Analysis
-* Goal Planning
-* Behavioral Coaching
-* Market Events
-
-#### Goal Intelligence Agent
-
-Analyzes:
-
-* Goal progress
-* Savings requirements
-* Completion forecasts
-
-#### Portfolio Intelligence Agent
-
-Analyzes:
-
-* Holdings
-* Asset allocation
-* Portfolio concentration
-
-#### Behavioral Finance Agent
-
-Detects:
-
-* Fear
-* Greed
-* FOMO
-* Overconfidence
-
-and provides coaching.
-
-#### Education Agent
-
-Identifies knowledge gaps and recommends learning content.
-
-#### RAG Agent
-
-Retrieves relevant knowledge from educational documents stored in ChromaDB.
-
-#### Mentor Response Agent
-
-Combines all agent outputs to generate personalized responses.
-
-#### Simulation Agent
-
-Evaluates hypothetical portfolio transactions and provides educational insights.
+* Mutual Funds & SIPs
+* Risk Management
+* Personal Finance
 
 ---
 
 ## Technology Stack
 
-### Frontend
-
-* Next.js
-* React
-* Tailwind CSS
-* Shadcn UI
-
-### Backend
-
-* FastAPI
-* SQLAlchemy
-* Pydantic
-
-### Database
-
-* SQLite
-
-### Vector Database
-
-* ChromaDB
-
-### AI Frameworks
-
-* LangChain
-* LangGraph
-
-### Embeddings
-
-* sentence-transformers/all-MiniLM-L6-v2
-
-### LLM Provider
-
-* OpenRouter
-* Gemini 2.5 Flash
-* Grok (Fallback)
-
-### Authentication
-
-* JWT Authentication
+| Category        | Technologies                            |
+| --------------- | --------------------------------------- |
+| Frontend        | Next.js, React, Tailwind CSS, Shadcn UI |
+| Backend         | FastAPI, SQLAlchemy, Pydantic           |
+| Database        | SQLite                                  |
+| Vector Database | ChromaDB                                |
+| AI Frameworks   | LangChain, LangGraph                    |
+| LLM Provider    | OpenRouter                              |
+| Models          | Gemini 2.5 Flash, Grok (Fallback)       |
+| Embeddings      | all-MiniLM-L6-v2                        |
+| Authentication  | JWT                                     |
+| API Docs        | Swagger UI                              |
 
 ---
 
-## System Architecture
+## AI Agents
+
+| Agent            | Responsibility                             |
+| ---------------- | ------------------------------------------ |
+| Intent Agent     | Detects user intent                        |
+| Goal Agent       | Goal forecasting & planning                |
+| Portfolio Agent  | Portfolio analysis                         |
+| Behavioral Agent | Detects fear, greed, FOMO & overconfidence |
+| Education Agent  | Identifies learning gaps                   |
+| RAG Agent        | Retrieves knowledge from documents         |
+| Simulation Agent | Evaluates hypothetical investments         |
+| Mentor Agent     | Generates personalized responses           |
+
+---
+
+## Architecture
 
 ```text
 Frontend (Next.js)
@@ -213,24 +118,42 @@ Frontend (Next.js)
         ▼
 FastAPI Backend
         │
- ┌──────┼──────┐
+ ┌──────┴──────┐
  ▼             ▼
 SQLite      ChromaDB
- │             │
- └──────┬──────┘
-        ▼
- LangGraph Agents
-        ▼
- LangChain
-        ▼
- OpenRouter
-        ▼
- Gemini / Grok
+                │
+                ▼
+         LangGraph Agents
+                │
+                ▼
+          LangChain
+                │
+                ▼
+          OpenRouter
+                │
+                ▼
+        Gemini / Grok
 ```
 
 ---
 
-## Installation
+## Project Modules
+
+| Module                 | Description                     |
+| ---------------------- | ------------------------------- |
+| AI Wealth Mentor       | Personalized financial guidance |
+| Wealth Academy         | Financial learning platform     |
+| Risk Assessment        | Risk tolerance evaluation       |
+| Literacy Assessment    | Financial knowledge evaluation  |
+| Goal Management        | Goal creation and tracking      |
+| Portfolio Management   | Virtual investment management   |
+| Portfolio Intelligence | Portfolio scoring and analysis  |
+| Investment Simulator   | Safe investing practice         |
+| Behavioral Coaching    | Investor psychology analysis    |
+
+---
+
+## Setup
 
 ### Clone Repository
 
@@ -244,31 +167,29 @@ cd wealthseedAI
 Create:
 
 ```bash
-.env
+backend/.env
 ```
 
 using:
 
 ```bash
-.env.example
+backend/.env.example
 ```
 
-Fill in:
+Required variables:
 
-* OPENROUTER_API_KEY
-* JWT_SECRET
-* Other required credentials
+```env
+OPENROUTER_API_KEY=
+JWT_SECRET=
+OPENROUTER_MODEL=
+```
 
----
-
-## Backend Setup
+### Run Backend
 
 ```bash
 cd backend
 
 python -m venv venv
-
-# Windows
 venv\Scripts\activate
 
 pip install -r requirements.txt
@@ -282,23 +203,18 @@ Backend:
 http://localhost:8000
 ```
 
-Swagger Documentation:
+API Documentation:
 
 ```text
 http://localhost:8000/docs
 ```
 
----
-
-## Frontend Setup
-
-Open a new terminal:
+### Run Frontend
 
 ```bash
 cd frontend
 
 npm install
-
 npm run dev
 ```
 
@@ -310,49 +226,32 @@ http://localhost:3000
 
 ---
 
-## Project Status
+## Future Enhancements
 
-Current Phase:
-
-* AI Wealth Mentor
-* RAG Knowledge Base
-* Portfolio Intelligence
-* Virtual Investment Simulator
-* Goal Planning
-* Behavioral Coaching
-
-Completed and functional.
+* Advanced Portfolio Analytics Dashboard
+* Real-Time Market Data Integration
+* AI-Powered Portfolio Recommendations
+* PDF Financial Reports
+* Mobile Application
 
 ---
 
-## Future Enhancements
+## Academic Concepts Demonstrated
 
-* Portfolio Analytics Dashboard
-* Portfolio Growth Charts
-* PDF Reports
-* Advanced Portfolio Recommendations
-* Real-Time Market Data Integration
+* Artificial Intelligence
+* Retrieval-Augmented Generation (RAG)
+* Multi-Agent Systems
+* LangGraph Workflows
+* Prompt Engineering
+* Vector Databases
+* Behavioral Finance
+* Portfolio Analytics
+* Full Stack Development
+* REST API Design
+* Authentication & Security
 
 ---
 
 ## License
 
-This project was developed for academic and educational purposes.
-=======
-1. **Configure Environment Variables**:
-   - **Backend**: Copy `backend/.env.example` to `backend/.env` and fill in the required API keys (e.g., `JWT_SECRET`, `OPENROUTER_API_KEY`, etc.).
-   - **Frontend**: Copy `frontend/.env.example` to `frontend/.env.local` and adjust `NEXT_PUBLIC_API_URL` if needed.
-2. Run `docker-compose up -d` to start infrastructure (Postgres, Redis, Chroma).
-3. Backend:
-   ```bash
-   cd backend
-   pip install -r requirements.txt
-   uvicorn app.main:app --reload
-   ```
-4. Frontend:
-   ```bash
-   cd frontend
-   npm install
-   npm run dev
-   ```
->>>>>>> 53a6846 (Made some changes)
+Developed for academic and educational purposes.
